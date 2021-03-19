@@ -15,7 +15,7 @@ django-cors-headers==3.0.2
 django-filter==2.1.0
 django-rest-auth==0.9.5
 django-s3-storage==0.12.4
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 docutils==0.14
 gitdb==0.6.4
 gitdb2==2.0.5
